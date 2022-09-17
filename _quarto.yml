@@ -4,13 +4,12 @@ project:
 website:
   title: "dots"
   site-url: https://www.mikemunkyulee.com/blog
+  description: "Welcome to Mike Lee's blog"
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/leemun1
 format:
   html:
     theme: flatly
