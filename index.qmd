@@ -1,8 +1,7 @@
 ---
-title: "dots"
-image: profile.jpg
+title: "Hello, world! 👋"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: linkedin
       text: LinkedIn
@@ -13,6 +12,28 @@ about:
 
 ---
 
-Hello, world! My name is Mike Lee.
+Hi there! My name is Mike Lee.<br>
+Welcome to my little corner of the internet ✨
 
-Welcome to my little corner in the digital world.
+## Education
+
+##### **University of Toronto** | Toronto, Canada
+Bachelor of Commerce<br>
+Graduated in 2018
+
+## Work Experience
+
+##### **PartnerStack** | Software Engineer
+May 2021 - Present
+
+Worked on the frontend and backend for the company's Partnership management software platform, with a focus on payment workflows.
+
+##### **Mosaic Manufacturing** | Software Engineer
+August 2018 - May 2021
+
+Worked on the frontend, backend, and the cloud infrastructure for Canvas, a 3D printing software platform.
+
+- Restructured centralized backend system into distributed architecture for core tasks
+- Implemented features for rendering and customizing 3D models
+- Developed and maintained Node.js serverless REST API
+- Led development of React frontend
