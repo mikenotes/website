@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/korean-test/index.html",
       "/posts/hello-world/index.html"
     ]
   }

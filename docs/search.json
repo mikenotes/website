@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nSep 18, 2022\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -33,5 +33,12 @@
     "title": "Hello, world!",
     "section": "",
     "text": "Hello, world!"
+  },
+  {
+    "objectID": "posts/korean-test/index.html",
+    "href": "posts/korean-test/index.html",
+    "title": "한글 테스트",
+    "section": "",
+    "text": "한글 테스트"
   }
 ]
