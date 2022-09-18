@@ -15,6 +15,6 @@ format:
   html:
     theme: flatly
     css: styles.css
-
-
-
+    smooth-scroll: true
+    fontsize: 17px
+    mainfont: "'Roboto Slab', serif"

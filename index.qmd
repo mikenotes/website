@@ -26,12 +26,12 @@ Graduated in 2018
 ##### **PartnerStack** | Software Engineer
 May 2021 - Present
 
-Worked on the frontend and backend for the company's [Partnership management software platform](https://partnerstack.com/platform/platform-demo-video), with a focus on payment workflows.
+Worked on the frontend and backend for the company's [Partnership management software platform](https://partnerstack.com/platform/platform-demo-video){.external target="_blank"}, with a focus on payment workflows.
 
 ##### **Mosaic Manufacturing** | Software Engineer
 August 2018 - May 2021
 
-Worked on the frontend, backend, and the cloud infrastructure for [Canvas](https://www.mosaicmfg.com/pages/canvas), a 3D printing software platform.
+Worked on the frontend, backend, and the cloud infrastructure for [Canvas](https://www.mosaicmfg.com/pages/canvas){.external target="_blank"}, a 3D printing software platform.
 
 - Restructured centralized backend system into distributed architecture for core tasks
 - Implemented features for rendering and customizing 3D models
