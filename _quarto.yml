@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "observatory"
+  title: "the observatory"
   site-url: https://www.mikemunkyulee.com/blog
   description: "Welcome to Mike Lee's blog"
   navbar:
