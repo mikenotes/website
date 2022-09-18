@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "a box of strings"
+  title: "observatory"
   site-url: https://www.mikemunkyulee.com/blog
   description: "Welcome to Mike Lee's blog"
   navbar:
