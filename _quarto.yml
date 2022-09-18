@@ -4,7 +4,7 @@ project:
 
 website:
   title: "the observatory"
-  site-url: https://www.mikemunkyulee.com/blog
+  favicon: resources/favicon.ico
   description: "Welcome to Mike Lee's blog"
   navbar:
     right:
