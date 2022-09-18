@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "news\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, world! 👋",
+    "section": "",
+    "text": "Hi there! My name is Mike Lee. Welcome to my little corner of the internet ✨"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hello, world! 👋",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Toronto | Toronto, Canada\nBachelor of Commerce Graduated in 2018"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Hello, world! 👋",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nPartnerStack | Software Engineer\nMay 2021 - Present\nWorked on the frontend and backend for the company’s Partnership management software platform, with a focus on payment workflows.\n\n\nMosaic Manufacturing | Software Engineer\nAugust 2018 - May 2021\nWorked on the frontend, backend, and the cloud infrastructure for Canvas, a 3D printing software platform.\n\nRestructured centralized backend system into distributed architecture for core tasks\nImplemented features for rendering and customizing 3D models\nDeveloped and maintained Node.js serverless REST API\nLed development of React frontend"
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "Hello, world!"
+  }
+]
