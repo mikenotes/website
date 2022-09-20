@@ -28,8 +28,8 @@ May 2021 - Present
 
 Worked on the frontend and backend for the company's [Partnership management software platform](https://partnerstack.com/platform/platform-demo-video){.external target="_blank"}, with a focus on payment workflows.
 
-- Developed and maintained integration with payment service providers (e.g., Stripe)
-- Developed internal reporting and monitoring tools for the payment system
+- Developed and maintained integrations with payment service providers (e.g., Stripe)
+- Developed internal reporting and monitoring tools for payment system
 - Led initiative to modernize backend unit testing suite, reducing total execution time by 30%  
 - Worked on Vue 3 migration, and localization projects on the frontend
 
