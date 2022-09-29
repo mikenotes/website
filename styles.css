@@ -1,0 +1,14 @@
+.navbar {
+    max-width: 1020px;
+    margin: auto;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.navbar-dark {
+    background-color:#148f77;
+}
+
+.navbar-dark .navbar-brand {
+    color: whitesmoke;
+}
