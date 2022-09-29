@@ -18,6 +18,3 @@ format:
     css: styles.css
     fontsize: 17px
     mainfont: "'Roboto Slab', 'Noto Serif KR', serif"
-    include-in-header:
-      - resources/fonts.html
-    
