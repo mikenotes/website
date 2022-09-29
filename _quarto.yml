@@ -8,8 +8,7 @@ website:
   description: "Welcome to Mike Lee's blog"
   navbar:
     right:
-      - text: blog
-        href: https://medium.com/@mikemunkyu.lee
+      - blog.qmd
       - icon: github
         href: https://github.com/leemun1
 format:
