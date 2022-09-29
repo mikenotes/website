@@ -1,6 +1,7 @@
 ---
 title: "Hello, world!"
 date: "2022-09-14"
+categories: [news]
 ---
 
 Hello, world!
